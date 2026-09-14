@@ -163,6 +163,7 @@
     accent-cowboy-words-20: accent-cowboy-replacement-20
     accent-cowboy-words-21: accent-cowboy-replacement-21
     accent-cowboy-words-22: accent-cowboy-replacement-22
+    accent-cowboy-words-22-2: accent-cowboy-replacement-22
     accent-cowboy-words-23: accent-cowboy-replacement-23
     accent-cowboy-words-24: accent-cowboy-replacement-24
     accent-cowboy-words-25: accent-cowboy-replacement-25
@@ -219,12 +220,16 @@
     accent-cowboy-words-69-2: accent-cowboy-replacement-69
     accent-cowboy-words-69-3: accent-cowboy-replacement-69
     accent-cowboy-words-69-4: accent-cowboy-replacement-69
+    accent-cowboy-words-69-5: accent-cowboy-replacement-69
     accent-cowboy-words-70: accent-cowboy-replacement-70
     accent-cowboy-words-70-2: accent-cowboy-replacement-70
     accent-cowboy-words-70-3: accent-cowboy-replacement-70
     accent-cowboy-words-70-4: accent-cowboy-replacement-70
     accent-cowboy-words-71: accent-cowboy-replacement-71
     accent-cowboy-words-71-2: accent-cowboy-replacement-71
+    accent-cowboy-words-71-3: accent-cowboy-replacement-71
+    accent-cowboy-words-71-4: accent-cowboy-replacement-71
+    accent-cowboy-words-71-5: accent-cowboy-replacement-71
     accent-cowboy-words-72: accent-cowboy-replacement-72
     accent-cowboy-words-73: accent-cowboy-replacement-73
     accent-cowboy-words-74: accent-cowboy-replacement-74
@@ -239,8 +244,6 @@
     accent-cowboy-words-81: accent-cowboy-replacement-81
     accent-cowboy-words-82: accent-cowboy-replacement-82
     accent-cowboy-words-83: accent-cowboy-replacement-83
-<<<<<<< HEAD
-=======
     accent-cowboy-words-84: accent-cowboy-replacement-84
     accent-cowboy-words-85: accent-cowboy-replacement-85
     accent-cowboy-words-86: accent-cowboy-replacement-86
@@ -251,9 +254,6 @@
     accent-cowboy-words-91: accent-cowboy-replacement-91
     accent-cowboy-words-92: accent-cowboy-replacement-92
     accent-cowboy-words-93: accent-cowboy-replacement-93
-<<<<<<< HEAD
->>>>>>> ec85a0e9aa (Adds "HOS" To "Sheriff" Word Replacements For the Cowboy Accent (#997))
-=======
     accent-cowboy-words-94: accent-cowboy-replacement-94
     accent-cowboy-words-95: accent-cowboy-replacement-95
     accent-cowboy-words-96: accent-cowboy-replacement-96
@@ -293,8 +293,12 @@
     accent-cowboy-words-128: accent-cowboy-replacement-128
     accent-cowboy-words-129: accent-cowboy-replacement-129
     accent-cowboy-words-129-2: accent-cowboy-replacement-129
+    accent-cowboy-words-129-3: accent-cowboy-replacement-129
+    accent-cowboy-words-129-4: accent-cowboy-replacement-129
     accent-cowboy-words-130: accent-cowboy-replacement-130
     accent-cowboy-words-130-2: accent-cowboy-replacement-130
+    accent-cowboy-words-130-3: accent-cowboy-replacement-130
+    accent-cowboy-words-130-4: accent-cowboy-replacement-130
     accent-cowboy-words-131: accent-cowboy-replacement-131
     accent-cowboy-words-132: accent-cowboy-replacement-132
     accent-cowboy-words-133: accent-cowboy-replacement-133
@@ -326,7 +330,8 @@
     accent-cowboy-words-148-3: accent-cowboy-replacement-148
     accent-cowboy-words-148-4: accent-cowboy-replacement-148
     accent-cowboy-words-148-5: accent-cowboy-replacement-148
->>>>>>> afde02f3f1 (adds 28 new replacements to the cowboy accent (#1069))
+    accent-cowboy-words-149: accent-cowboy-replacement-149
+    accent-cowboy-words-149-2: accent-cowboy-replacement-149
 
 - type: accent
   id: southern

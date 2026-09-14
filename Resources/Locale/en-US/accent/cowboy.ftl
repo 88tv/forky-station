@@ -62,6 +62,7 @@ accent-cowboy-words-21 = crazy
 accent-cowboy-replacement-21 = cracked
 
 accent-cowboy-words-22 = cyborg
+accent-cowboy-words-22-2 = automa
 accent-cowboy-replacement-22 = tin man
 
 accent-cowboy-words-23 = dad
@@ -212,6 +213,7 @@ accent-cowboy-words-69 = hos
 accent-cowboy-words-69-2 = head of security
 accent-cowboy-words-69-3 = head of law
 accent-cowboy-words-69-4 = head of sec
+accent-cowboy-words-69-5 = commandant
 accent-cowboy-replacement-69 = sheriff
 
 accent-cowboy-words-70 = secoff
@@ -222,6 +224,9 @@ accent-cowboy-replacement-70 = deputy
 
 accent-cowboy-words-71 = sec
 accent-cowboy-words-71-2 = security
+accent-cowboy-words-71-3 = aegis
+accent-cowboy-words-71-4 = asc
+accent-cowboy-words-71-5 = aegis security consolidated
 accent-cowboy-replacement-71 = law
 
 accent-cowboy-words-72 = shitsec
@@ -398,10 +403,14 @@ accent-cowboy-replacement-128 = sidewinders
 
 accent-cowboy-words-129 = nanotrasen representative
 accent-cowboy-words-129-2 = ntr
+accent-cowboy-words-129-3 = corporate liaison
+accent-cowboy-words-129-4 = cl
 accent-cowboy-replacement-129 = regulator
 
 accent-cowboy-words-130 = nanotrasen representatives
 accent-cowboy-words-130-2 = ntrs
+accent-cowboy-words-130-3 = corporate liaisons
+accent-cowboy-words-130-4 = cls
 accent-cowboy-replacement-130 = regulators
 
 accent-cowboy-words-131 = difficult
@@ -470,3 +479,7 @@ accent-cowboy-words-148-3 = duffel bag
 accent-cowboy-words-148-4 = duffel
 accent-cowboy-words-148-5 = bag
 accent-cowboy-replacement-148 = pack
+
+accent-cowboy-words-149 = cyborgs
+accent-cowboy-words-149-2 = automas
+accent-cowboy-replacement-149 = tin men
